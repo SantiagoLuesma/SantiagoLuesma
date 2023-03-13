@@ -2,7 +2,7 @@
 
 #### React Frontend developer
 
-#### Algunas tecnologías con las que trabajo y conozco: HTML, CSS, JavaScript, React, SASS, NextJS, StoryBook, NPM, Yarn, GIT, Axios, 
+#### Algunas tecnologías con las que trabajo y conozco: HTML, CSS, SASS, Styled Components, JavaScript, TypeScript, React, Redux, NextJS, StoryBook, NPM, Yarn, GIT, Axios, Postman, metodología Scrum, metodología BEM, etc.
 
 - 🔭 Actualmente trabajo en Technisys, una empresa líder a nivel mundial, dedicada a crear software bancario para bancos de Argentina, Uruguay, Chile, Brasil, México, EEUU, etc.
 
